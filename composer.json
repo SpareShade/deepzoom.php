@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Deepzoom\\Deepzoom": "src/"
+            "Deepzoom": "src/"
         }
     },
     "minimum-stability": "dev"
